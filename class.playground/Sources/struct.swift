@@ -21,7 +21,7 @@ struct Point {
         y += deltaY
         let movedDistance = distanceFromOrigin()
         return movedDistance
-    }xq
+    }
 }
 
 struct circle{

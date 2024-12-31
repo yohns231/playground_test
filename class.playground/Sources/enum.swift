@@ -1,3 +1,10 @@
+//
+//  enum.swift
+//  
+//
+//  Created by 고요한 on 12/31/24.
+//
+
 import Foundation
 
 enum CompassDirection {
